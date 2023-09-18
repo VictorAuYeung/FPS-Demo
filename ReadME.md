@@ -2,7 +2,7 @@
 A demo 3D FPS project created using Unity. 
 
 ## Description:
-This is still a __Work in Progress__, and will be a playable FPS demo when complete.
+This is a playable demo, but note that it is still a __Work in Progress__.
 
 I created this project as a demo to learn more about lighting techniques in 3 Dimensional Environements, as well as Post Processing features via Unity.
 
