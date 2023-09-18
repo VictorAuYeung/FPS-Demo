@@ -41,7 +41,8 @@ __Script Files__: _RespawnManager.cs_
 ![image](https://github.com/VictorAuYeung/FPS-Demo/assets/69711600/3f5e53bd-3407-457f-b583-5ef2635015e2)
 
 ### Skybox:
-![image](https://github.com/VictorAuYeung/FPS-Demo/assets/69711600/d8de9d1f-d7e5-445d-a519-722f4e645a7b)
+![image](https://github.com/VictorAuYeung/FPS-Demo/assets/69711600/3a30b575-1149-4ef0-8327-26ede24d2a82)
+
 
 ### More Coming Soon
 
